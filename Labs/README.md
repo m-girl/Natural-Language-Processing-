@@ -1,7 +1,3 @@
-Here’s a clean, polished **README.md** you can drop directly into your *labs* folder for your NLP class. It’s written in a way that looks professional, organized, and ready for coursework.
-
----
-
 # **Labs – Natural Language Processing (NLP)**
 
 Welcome to the **Labs** section for my Natural Language Processing (NLP) course. This folder contains hands‑on exercises, notebooks, and exploratory work completed throughout the semester. Each lab is designed to build practical intuition for how machines process, understand, and generate human language.
